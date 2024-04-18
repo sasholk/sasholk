@@ -7,7 +7,7 @@
   <samp>
     Full-stack developer in the making –  I know enough HTML, CSS, and JavaScript to get myself into trouble (and occasionally out of it).  Craving a challenge, I'm exploring React and Node.js like a kid in a coding candy store.  Throw me into a team, give me a gnarly problem, and watch me learn on the fly. Let's build some cool stuff together!     
     <br><br>Contact me on 
-    <a href="https://www.linkedin.com/in/oleksandr-boiko-834845180/">Linkedin</a> |  <a href="https://t.me/sasholk">Telegram</a>, or <a href="mailto:o.boiko.dev@gmail.com">Send an Email</a>
+    <a href="https://www.linkedin.com/in/o-boiko-dev/">Linkedin</a> |  <a href="https://t.me/sasholk">Telegram</a>, or <a href="mailto:o.boiko.dev@gmail.com">Send an Email</a>
   </samp>
 </p>
 
