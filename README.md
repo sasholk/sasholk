@@ -18,9 +18,7 @@
 
 <!--tech stack icons-->
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,react,redux,ts,materialui,tailwind,git,html,css,discord,docker,postgres,prisma,express,figma,github,linux,md,nginx,mongodb,mysql,nextjs,nodejs,postman,vscode&perline=14" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=js,react,redux,ts,materialui,tailwind,bootstrap,git,html,css,sass,docker,nodejs,nextjs,postgres,prisma,express,github,linux,md,nginx,mongodb,mysql,postman,figma,vscode,discord,obsidian&perline=14" />
 </p>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=footer"/>
