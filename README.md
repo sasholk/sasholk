@@ -8,7 +8,7 @@
   <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
   <br>
   <samp>
-    Front-end Developer here, with enough HTML, CSS, and JavaScript to create a website or accidentally crash one—whichever comes first. With commercial experience under my belt, I'm diving into React like a kid in a coding candy store. Throw me into a team, give me a gnarly bug, and watch me debug like a pro (or at least Google like one). Let's build some cool stuff together and maybe break a few things along the way—it's all part of the fun, right?
+    Frontend Developer here, with enough HTML, CSS, and JavaScript to create a website or accidentally crash one—whichever comes first. With commercial experience under my belt, I'm diving into React like a kid in a coding candy store. Throw me into a team, give me a gnarly bug, and watch me debug like a pro (or at least Google like one). Let's build some cool stuff together and maybe break a few things along the way—it's all part of the fun, right?
     <br><br>
     Contact me on 
     <a href="https://www.linkedin.com/in/o-boiko-dev/">Linkedin</a> |  
