@@ -14,6 +14,7 @@
     <a href="https://www.linkedin.com/in/o-boiko-dev/">Linkedin</a> |  
     <a href="https://t.me/sasholk">Telegram</a>, or 
     <a href="mailto:o.boiko.dev@gmail.com">Send an Email</a>
+    Currently practicing on this lovely <a href="https://github.com/fe-nov23-DOMinationDynasty/yabE">project</a>
   </samp>
 </p>
 
