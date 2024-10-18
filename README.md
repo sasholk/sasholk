@@ -14,9 +14,9 @@
     <a href="https://www.linkedin.com/in/o-boiko-dev/">Linkedin</a> |  
     <a href="https://t.me/sasholk">Telegram</a>, or 
     <a href="mailto:o.boiko.dev@gmail.com">Send an Email</a>
-  </samp>
-  <br><br>
+    <br><br>
     Currently practicing on this lovely <a href="https://github.com/fe-nov23-DOMinationDynasty/yabE">project</a>
+  </samp>
 </p>
 
 <h2 align="center"> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
